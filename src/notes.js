@@ -22,7 +22,14 @@ const notes = [
       title: "Hardware vs. Software",
       content:
         "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+    },
+    {
+        key: 5,
+        title: "Regine Ivy Ortega",
+        content: "She's the most wonderful woman that I have ever met, my love. I love you so much, Ivy. I always long for your presence as you multiply my intrinsic happiness."
     }
+
+
   ];
 
   export default notes;
